@@ -20,7 +20,7 @@ function merge(tom,jerry) {
   }
 return arr;
 
-
+  // testing
   // a different way to solve the problem with a single loop
   // let result = [];
   // let totalLength = tom.length + jerry.length;
